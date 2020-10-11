@@ -1,0 +1,260 @@
+{
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-03-21 16:32:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-02-20 15:39:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-03-21 16:32:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-03-21 16:32:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-03-21 16:32:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-21 15:58:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-02-22 22:25:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2020-03-21 15:59:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-02-19 21:13:24 +0800"
+    },
+    "done": true
+  }
+}

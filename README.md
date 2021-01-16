@@ -15,7 +15,7 @@
 # 载点
 [【帝国时代语言+音效包】](https://www.mediafire.com/file/nvngrl2adzzu2jf/aop_resources.zip/file "【帝国时代语言+音效包】")(连线者才需下载)
 
-[【掠夺时代II黄金帝国】最新版](https://github.com/wuilliam104286/Age-Of-Plunder-II-Simplified-Chinese/releases/tag/v2.5c "【掠夺时代II黄金帝国】最新版")(已内建资源包)
+[【掠夺时代II黄金帝国】最新版](https://github.com/wuilliam104286/Age-Of-Plunder-II-Simplified-Chinese/archive/v2.5c.zip"【掠夺时代II黄金帝国】最新版")(已内建资源包)
 
 [【全版本下载】](https://github.com/wuilliam104286/Age-Of-Plunder-II-Simplified-Chinese/releases "【全版本下载】")(v1.0a ~ v2.5c)
 

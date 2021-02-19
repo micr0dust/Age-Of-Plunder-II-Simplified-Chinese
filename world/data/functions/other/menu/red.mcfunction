@@ -20,6 +20,8 @@ tellraw @p[score_AItest_min=1] {"translate":"aop.menu.info","color":"yellow","cl
 tellraw @p[score_AItest_min=1] {"translate":"aop.menu.suicide","color":"yellow","clickEvent":{"action":"run_command","value":"/kill @p"},"hoverEvent":{"action":"show_text","value":[{"translate":"aop.menu.suicide.text"}]}}}
 execute @e[tag=cmd,score_menu_min=1,score_menu=1] ~ ~ ~ tellraw @p[score_AItest_min=1] {"translate":"aop.menu.messions","color":"yellow","clickEvent":{"action":"run_command","value":"/function other:menu/mession"},"hoverEvent":{"action":"show_text","value":[{"translate":"aop.menu.messions.text"}]}}}
 execute @e[tag=cmd,score_menu_min=1,score_menu=1] ~ ~ ~ tellraw @p[score_AItest_min=1] {"translate":"aop.menu.hint","color":"yellow","clickEvent":{"action":"run_command","value":"/function other:menu/tip"},"hoverEvent":{"action":"show_text","value":[{"translate":"aop.menu.hint.text"}]}}}
+execute @e[tag=cmd,score_menu_min=3,score_menu=3] ~ ~ ~ tellraw @p[score_AItest_min=1] {"translate":"aop.menu.messions","color":"yellow","clickEvent":{"action":"run_command","value":"/function other:menu/mession"},"hoverEvent":{"action":"show_text","value":[{"translate":"aop.menu.messions.text"}]}}}
+execute @e[tag=cmd,score_menu_min=3,score_menu=3] ~ ~ ~ tellraw @p[score_AItest_min=1] {"translate":"aop.menu.hint","color":"yellow","clickEvent":{"action":"run_command","value":"/function other:menu/tip"},"hoverEvent":{"action":"show_text","value":[{"translate":"aop.menu.hint.text"}]}}}
 tellraw @p[team=red,score_AItest_min=1] ["",{"text":"------------------------","color":"gold"},{"text":" "}]
 scoreboard players set @p AItest 0
 
